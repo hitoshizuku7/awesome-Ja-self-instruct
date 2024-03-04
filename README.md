@@ -1,4 +1,4 @@
-# High-quality Japanese Instruction Dataset
+# Awesome-Ja-self-Instruct.
 
 This is a Japanese dataset with Alpaca format.
 
