@@ -1,7 +1,7 @@
 # Awesome Japanese Self-Instruct.
 
 This is a Japanese dataset with Alpaca format. 
-And the approach to generate this dataset is described by the paper: [Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese](https://arxiv.org/pdf/2010.12812.pdf).
+And the approach to generate this dataset is described by the paper: [Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese](https://arxiv.org/abs/2403.03690).
 
 
 ## Process
