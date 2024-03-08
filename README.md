@@ -1,6 +1,6 @@
 # Awesome Japanese Self-Instruct.
 
-[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
+[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/hitoshizuku7/awesome-Ja-self-instruct/blob/main/LICENSE)
 
 This is a Japanese dataset with Alpaca format. 
 And the approach to generate this dataset is described by the paper: [Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese](https://arxiv.org/abs/2403.03690).
