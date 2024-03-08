@@ -3,7 +3,7 @@
 This is a Japanese dataset with Alpaca format. 
 And the approach to generate this dataset is described by the paper: [Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese](https://arxiv.org/abs/2403.03690).
 
-License Notices: Awesome Japanese Self-Instruct © 2024 by Yikun Sun is licensed under CC BY-NC 4.0 
+License Notices: Awesome Japanese Self-Instruct © 2024 by Yikun Sun is licensed under CC BY-NC 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
 
 
 
